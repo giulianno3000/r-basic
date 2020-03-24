@@ -3,10 +3,7 @@
 
 Soy Julian y estoy probando y sigo probando y vuelvo a probar
 
-Hasta que me canse :)
-
-
-Yo que se ya!!!
+y borrando otra vez
 
 Conoce toda la estadística descriptiva de la mano de Juan Gabriel Gomila y asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primera de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
 
